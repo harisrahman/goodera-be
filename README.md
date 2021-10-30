@@ -1,4 +1,4 @@
-<h1 align="center">Goodera Job Portal</h1>
+<h1 align="center">Goodera Job Portal Back-end</h1>
 
 <h3 align="center">
 	<a href="https://goodera-jobs.netlify.app/">Live URL</a>
