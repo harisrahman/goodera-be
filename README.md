@@ -1,7 +1,7 @@
 <h1 align="center">Goodera Job Portal</h1>
 
 <h3 align="center">
-	<a href="">Live URL</a>
+	<a href="https://goodera-jobs.netlify.app/">Live URL</a>
 </h3>
 
 ## Link to Front-end Repo
